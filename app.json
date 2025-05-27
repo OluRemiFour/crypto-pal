@@ -1,4 +1,8 @@
 {
   "name": "WholletApp",
-  "displayName": "Whollet"
+  "extra": {
+    "eas": {
+      "projectId": "1ec27ef8-24ac-4030-9940-b60a6bf01114"
+    }
+  }
 }
