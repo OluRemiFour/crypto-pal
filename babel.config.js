@@ -3,6 +3,7 @@ module.exports = {
   plugins: [
     [
       'module-resolver',
+      '@babel/plugin-transform-private-methods',
       {
         root: ['./src'],
         extensions: ['.ios.js', '.android.js', '.js', '.ts', '.tsx', '.json'],
